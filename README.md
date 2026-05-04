@@ -158,7 +158,7 @@ Banker's Algorithm guarantees that if a safe sequence exists, the system will re
 
 ## 👨‍💻 Submitted By
 
-Aalok Kumar Singh  
+Parna Ray
 BCA (AI & Data Science)  
 K.R. Mangalam University  
 
